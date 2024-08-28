@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=BBE5E9&text=Seul%20Ki%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=35&width=1200)
