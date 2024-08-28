@@ -1,7 +1,9 @@
+<!--타이틀 부분-->
 <div align="center">
 
-<!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=BBE5E9&text=Seul%20Ki%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=35&width=1200)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=5194F0&text=Seul%20Ki%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=35&width=1200)
+
+</div>
 
 <!--
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -40,15 +42,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
@@ -59,8 +52,6 @@
   <a href="https://velog.io/@sseulnim">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-</div>
-<div align="center">
 <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
 </div>
 
@@ -71,11 +62,10 @@
 -->
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sseulnim=anuraghazra&show_icons=true&theme=radical)
-
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sseulnim=anuraghazra&layout=compact)
+<div align="center">
 
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseulnim&show_icons=true&theme=transparent)
+
+</div>
