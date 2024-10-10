@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=5194F0&text=Seul%20Ki%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=35&width=1200)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=5271A0&text=Seul%20Ki%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=35&width=1200)
 
 </div>
 
