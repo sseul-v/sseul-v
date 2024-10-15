@@ -64,7 +64,9 @@
   <a href="https://www.behance.net/gallery/187707813/-%28%29">
     <img src="https://img.shields.io/badge/영상제작1-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
   <a href="https://www.behance.net/gallery/187214861/2024-">
-    <img src="https://img.shields.io/badge/영상제작2-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>
+    <img src="https://img.shields.io/badge/영상제작2-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
+<a href="https://youtu.be/fg8uh5F8dh4?si=Nv01_1GRj-l8mJOn">
+    <img src="https://img.shields.io/badge/영상제작3-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
 </div>
 
 <!--
