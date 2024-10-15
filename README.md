@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=709BDD&text=Seul%20Ki%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=35&width=1200)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=709BDD&text=Seul%20Ki%20Github&fontSize=50&fontColor=FFFFFF&fontAlignY=35&width=1200)
 
 </div>
 
@@ -23,7 +23,16 @@
 -->
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">🎨 Creative Design Tools 🎨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>&nbsp
+</div>
+
+<br>
+
+<h3 align="center">✨ Frontend Development Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -32,7 +41,10 @@
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>&nbsp
 </div>
 
-<div align="center">
+<br>
+
+<h3 align="center"> 🛠 Styling & UI Libraries 🛠</h3>
+  <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -40,7 +52,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🔧 Development Tools 🔧</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -51,7 +63,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 Get in Touch 📫</h3>
 <div align="center">
   <a href="https://velog.io/@sseulnim">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp
@@ -59,14 +71,16 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>
 </div>
 
-<h3 align="center">🙋‍♀️ Bonus 🙋‍♀️</h3>
+<br>
+
+<h3 align="center">🎬 Project Showcases 🎬</h3>
 <div align="center">
   <a href="https://www.behance.net/gallery/187707813/-%28%29">
-    <img src="https://img.shields.io/badge/영상제작1-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Video Project 1-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
   <a href="https://www.behance.net/gallery/187214861/2024-">
-    <img src="https://img.shields.io/badge/영상제작2-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Video Project 2-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
 <a href="https://youtu.be/fg8uh5F8dh4?si=Nv01_1GRj-l8mJOn">
-    <img src="https://img.shields.io/badge/영상제작3-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Video Project 3-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
 </div>
 
 <!--
