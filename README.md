@@ -5,38 +5,28 @@
 
 </div>
 
-<!--
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
--->
-
 <!--내용 부분-->
 <h3 align="center">🎨 Creative Design Tools 🎨</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>&nbsp
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"/>&nbsp
 </div>
 
 <br>
 
 <h3 align="center">✨ Frontend Development Skills ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>&nbsp
 </div>
@@ -46,18 +36,18 @@
 <h3 align="center"> 🛠 Styling & UI Libraries 🛠</h3>
   <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">🔧 Development Tools 🔧</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/Cursor-2C2C2C.svg?style=for-the-badge&logo=Cursor&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/Cursor-2C2C2C?style=for-the-badge&logo=Cursor&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>&nbsp
 </div>
 
@@ -68,26 +58,23 @@
   <a href="https://velog.io/@sseulnim">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp
   <a href="https://candy-freckle-554.notion.site/unsplash-11bd26357656802fb55df503b6acdb31?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>
+    <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" /></a>&nbsp
+    <a href="mailto:hanbat107@gmail.com">
+    <img src="https://img.shields.io/badge/hanbat107@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <br>
 
-<h3 align="center">🎬 Project Showcases 🎬</h3>
+<h3 align="center">🎬 Video Production Portfolio 🎬</h3>
 <div align="center">
   <a href="https://www.behance.net/gallery/187707813/-%28%29">
-    <img src="https://img.shields.io/badge/Video Project 1-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Video Project 1-1769FF?style=for-the-badge&logo=Behance&logoColor=white" /></a>&nbsp
   <a href="https://www.behance.net/gallery/187214861/2024-">
-    <img src="https://img.shields.io/badge/Video Project 2-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Video Project 2-1769FF?style=for-the-badge&logo=Behance&logoColor=white" /></a>&nbsp
 <a href="https://youtu.be/fg8uh5F8dh4?si=Nv01_1GRj-l8mJOn">
-    <img src="https://img.shields.io/badge/Video Project 3-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Video Project 3-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp
 </div>
-
-<!--
-  <a href="mailto:hanbat107@gmail.com">
-    <img src="https://img.shields.io/badge/hanbat107@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
--->
 
 <br>
 <br>
