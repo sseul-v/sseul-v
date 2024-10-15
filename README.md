@@ -59,6 +59,14 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" /></a>
 </div>
 
+<h3 align="center">🙋‍♀️ Bonus 🙋‍♀️</h3>
+<div align="center">
+  <a href="https://www.behance.net/gallery/187707813/-%28%29">
+    <img src="https://img.shields.io/badge/영상제작1-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>&nbsp
+  <a href="https://www.behance.net/gallery/187214861/2024-">
+    <img src="https://img.shields.io/badge/영상제작2-F3F3F3.svg?style=for-the-badge&logoColor=black" /></a>
+</div>
+
 <!--
   <a href="mailto:hanbat107@gmail.com">
     <img src="https://img.shields.io/badge/hanbat107@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
