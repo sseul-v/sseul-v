@@ -77,7 +77,6 @@
     <img src="https://img.shields.io/badge/Video Project 3-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp
 </div>
 -->
-
 <br>
 <br>
 
