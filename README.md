@@ -55,7 +55,7 @@
 
 <h3 align="center">📫 Get in Touch 📫</h3>
 <div align="center">
-  <a href="https://candy-freckle-554.notion.site/sseul-s-blog">
+  <a href="(https://sseul-s.notion.site/sseul-s-blog">
     <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" /></a>&nbsp
     <a href="https://velog.io/@sseulnim">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp
