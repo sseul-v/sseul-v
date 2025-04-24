@@ -6,7 +6,7 @@
 </div>
 
 <!--내용 부분-->
-<br>
+
 
 <h3 align="center">✨ Frontend Development Skills ✨</h3>
 <div align="center">
