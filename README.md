@@ -6,17 +6,6 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">🎨 Creative Design Tools 🎨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>&nbsp
-</div>
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"/>&nbsp
-</div> -->
-
 <br>
 
 <h3 align="center">✨ Frontend Development Skills ✨</h3>
@@ -35,7 +24,10 @@
 
 <h3 align="center"> 🛠 Styling & UI Libraries 🛠</h3>
   <div align="center">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  </div>
+    <div align="center">
   <img src="https://img.shields.io/badge/tailwindcss-1daabb?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
@@ -47,7 +39,6 @@
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/Cursor-2C2C2C?style=for-the-badge&logo=Cursor&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>&nbsp
 </div>
 
