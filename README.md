@@ -8,20 +8,18 @@
 <!--내용 부분-->
 
 
-<h3 align="center">✨ Frontend Development Skills ✨</h3>
+<h3 align="center">✨ Development Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-</div>
-<div align="center">
 <!--   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>&nbsp
 </div>
 
 <br>
-
+<!--
 <h3 align="center"> 🛠 Styling & UI Libraries 🛠</h3>
   <div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
@@ -43,13 +41,16 @@
 </div>
 
 <br>
+-->
 
 <h3 align="center">📫 Get in Touch 📫</h3>
 <div align="center">
   <a href="https://sseul-s.notion.site/sseul-s-blog">
     <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" /></a>&nbsp
-    <a href="https://velog.io/@sseulnim">
+  <!--  
+  <a href="https://velog.io/@sseulnim">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" /></a>&nbsp
+  -->
     <a href="mailto:hanbat107@gmail.com">
     <img src="https://img.shields.io/badge/hanbat107@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -57,18 +58,6 @@
 
 <br>
 
-<!--
-<h3 align="center">🎬 Video Production Portfolio 🎬</h3>
-<div align="center">
-  <a href="https://www.behance.net/gallery/187707813/-%28%29">
-    <img src="https://img.shields.io/badge/Video Project 1-1769FF?style=for-the-badge&logo=Behance&logoColor=white" /></a>&nbsp
-  <a href="https://www.behance.net/gallery/187214861/2024-">
-    <img src="https://img.shields.io/badge/Video Project 2-1769FF?style=for-the-badge&logo=Behance&logoColor=white" /></a>&nbsp
-<a href="https://youtu.be/fg8uh5F8dh4?si=Nv01_1GRj-l8mJOn">
-    <img src="https://img.shields.io/badge/Video Project 3-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp
-</div>
--->
-<br>
 <br>
 
 <div align="center">
