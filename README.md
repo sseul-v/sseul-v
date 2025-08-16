@@ -61,10 +61,8 @@
 <br>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sseul-v&show_icons=true&theme=transparent&hide_border=true" width="400" alt="GitHub stats" />
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseul-v&layout=compact&hide_border=true" width="340" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sseul-v&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseul-v&layout=compact&hide_border=true" height="160" />
 </p>
 
 </div>
