@@ -1,31 +1,31 @@
 <!--타이틀 부분-->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=709BDD&text=Seul%20Ki%20Github&fontSize=50&fontColor=FFFFFF&fontAlignY=35&width=1200)
+![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=709BDD&text=Seul%20Gi%20Github&fontSize=50&fontColor=FFFFFF&fontAlignY=35&width=1200)
 
 </div>
 
 <!--내용 부분-->
-
 
 <h3 align="center">✨ Development Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-<!--   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp
 </div>
 
 <br>
+
 <!--
 <h3 align="center"> 🛠 Styling & UI Libraries 🛠</h3>
-  <div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  </div>
-    <div align="center">
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/tailwindcss-1daabb?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
@@ -62,6 +62,12 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseulnim&show_icons=true&theme=transparent)
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sseul-v&show_icons=true&theme=transparent" alt="GitHub stats"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Top Langs -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseul-v&layout=compact" alt="Top Langs"/>
+
+</div>
 
 </div>
